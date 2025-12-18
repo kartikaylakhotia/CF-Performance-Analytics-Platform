@@ -1,1 +1,1 @@
-# -CFCollege-Standings
+# CFCollege-Standings
